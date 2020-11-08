@@ -1,7 +1,7 @@
 @prefix modgui: <http://moddevices.com/ns/modgui#> .
 @prefix lv2:    <http://lv2plug.in/ns/lv2core#> .
 
-<http://moddevices.com/plugins/mod-devel/2Voices>
+<http://moddevices.com/plugins/mod-devel/Gx2Voices>
     modgui:gui [
         modgui:resourcesDirectory <modgui> ;
         modgui:iconTemplate <modgui/icon-2voices.html> ;
@@ -9,7 +9,7 @@
         modgui:screenshot <modgui/screenshot-2voices.png> ;
         modgui:thumbnail <modgui/thumbnail-2voices.png> ;
         modgui:brand "MOD" ;
-        modgui:label "2Voices" ;
+        modgui:label "Gx2Voices" ;
         modgui:model "boxy" ;
         modgui:panel "2-knobs" ;
         modgui:color "darkblue" ;

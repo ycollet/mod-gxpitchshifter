@@ -4,7 +4,7 @@
 
 <default-preset>
 	a pset:Preset ;
-	lv2:appliesTo <http://moddevices.com/plugins/mod-devel/SuperWhammy> ;
+	lv2:appliesTo <http://moddevices.com/plugins/mod-devel/GxSuperWhammy> ;
 	lv2:port [
 		lv2:symbol "Clean" ;
 		pset:value 0.0

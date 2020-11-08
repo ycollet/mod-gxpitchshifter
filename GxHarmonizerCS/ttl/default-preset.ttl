@@ -4,7 +4,7 @@
 
 <default-preset>
 	a pset:Preset ;
-	lv2:appliesTo <http://moddevices.com/plugins/mod-devel/HarmonizerCS> ;
+	lv2:appliesTo <http://moddevices.com/plugins/mod-devel/GxHarmonizerCS> ;
 	lv2:port [
 		lv2:symbol "Gain1" ;
 		pset:value 0.0
