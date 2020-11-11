@@ -5,7 +5,7 @@
 
 /**********************************************************************************************************************************************************/
 
-#define PLUGIN_URI "http://moddevices.com/plugins/mod-devel/2Voices"
+#define PLUGIN_URI "http://moddevices.com/plugins/mod-devel/Gx2Voices"
 #define FIDELITY0 6,3,2,1
 #define FIDELITY1 12,6,3,2
 #define FIDELITY2 16,8,4,2

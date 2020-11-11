@@ -5,7 +5,7 @@
 
 /**********************************************************************************************************************************************************/
 
-#define PLUGIN_URI "http://moddevices.com/plugins/mod-devel/Drop"
+#define PLUGIN_URI "http://moddevices.com/plugins/mod-devel/GxDrop"
 #define FIDELITY0 4,2,1,1
 #define FIDELITY1 8,4,2,1
 #define FIDELITY2 16,8,4,2

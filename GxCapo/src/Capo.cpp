@@ -5,7 +5,7 @@
 
 /**********************************************************************************************************************************************************/
 
-#define PLUGIN_URI "http://moddevices.com/plugins/mod-devel/Capo"
+#define PLUGIN_URI "http://moddevices.com/plugins/mod-devel/GxCapo"
 #define FIDELITY0 4,2,1,1
 #define FIDELITY1 12,6,3,2
 #define FIDELITY2 20,10,5,3

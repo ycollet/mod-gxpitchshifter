@@ -2,8 +2,8 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
 
 <http://moddevices.com/plugins/mod-devel/GxDrop> a lv2:Plugin;
-    lv2:binary <mod-drop.so> ;
-    rdfs:seeAlso <Drop.ttl>.
+    lv2:binary <mod-gxdrop.so> ;
+    rdfs:seeAlso <GxDrop.ttl>.
 
 
 

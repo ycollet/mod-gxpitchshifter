@@ -7,7 +7,7 @@
 
 /**********************************************************************************************************************************************************/
 
-#define PLUGIN_URI "http://moddevices.com/plugins/mod-devel/Harmonizer2"
+#define PLUGIN_URI "http://moddevices.com/plugins/mod-devel/GxHarmonizer2"
 #define FIDELITY0 4,2,1,1
 #define FIDELITY1 8,4,2,1
 #define FIDELITY2 12,6,3,2
