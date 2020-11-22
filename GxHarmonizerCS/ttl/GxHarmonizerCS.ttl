@@ -29,7 +29,7 @@ doap:maintainer [
 mod:brand "MOD";
 mod:label "GxHarmonizerCS";
 
-doap:license "GPL";
+doap:license <http://usefulinc.com/doap/licenses/gpl>;
 
 rdfs:comment """
 It’s a custom-scale harmonizer plugin that allows you to create your own scale by moving up and down the sliders. With the slider all the way up, the harmonizer will shift the pitch up by +12 semitones. With the slider all the way down, the harmonizer will shift the pitch down by -12 semitones. Like with nearly all harmonizers, you will have to play in the correct key (which can also be configured). 

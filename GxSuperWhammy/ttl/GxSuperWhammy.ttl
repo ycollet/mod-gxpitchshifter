@@ -29,7 +29,7 @@ doap:maintainer [
 mod:brand "MOD";
 mod:label "GxSuper Whammy";
 
-doap:license "GPL";
+doap:license <http://usefulinc.com/doap/licenses/gpl>;
 
 rdfs:comment """
 Inspired by the classic Digitech Whammy(*), this pitch-shifter can shift an input pitch from -12 semitones down to +24 semitones up.

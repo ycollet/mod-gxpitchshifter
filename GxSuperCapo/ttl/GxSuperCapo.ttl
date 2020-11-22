@@ -29,7 +29,7 @@ doap:maintainer [
 mod:brand "MOD";
 mod:label "GxSuper Capo";
 
-doap:license "GPL";
+doap:license <http://usefulinc.com/doap/licenses/gpl>;
 
 rdfs:comment """
 It’s a pitch-shifter that can raise the pitch with a maximum of +24 semitones (steps). It has a bigger range than the Capo, but it also uses more processing power. If +12 semitones up are enough for you, consider using the regular Capo plugin.

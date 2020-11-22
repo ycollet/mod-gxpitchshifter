@@ -29,7 +29,7 @@ doap:maintainer [
 mod:brand "MOD";
 mod:label "GxHarmonizer";
 
-doap:license "GPL";
+doap:license <http://usefulinc.com/doap/licenses/gpl>;
 
 rdfs:comment """
 It’s a (relatively) simple harmonizer plugin that allows you to set the scale(*) to either Major, Minor, or Minor Harmonic, and then shift up a +3rd or +6th, or down a -3rd or -6th in that scale. Like with nearly all harmonizers, you will have to play in the correct key (which can also be configured).
