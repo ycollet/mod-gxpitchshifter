@@ -12,6 +12,8 @@
 <http://moddevices.com/plugins/mod-devel/GxDrop>
 a lv2:Plugin, lv2:SpectralPlugin;
 
+lv2:optionalFeature <http://lv2plug.in/ns/lv2core#hardRTCapable>;
+
 doap:name "GxDrop";
 
 doap:developer [
