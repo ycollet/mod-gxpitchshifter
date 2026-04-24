@@ -9,6 +9,7 @@
 #define FIDELITY0 8,4,2,1
 #define FIDELITY1 16,8,4,2
 #define FIDELITY2 24,12,6,3
+#define FIDELITY3 32,16,8,4
 enum {IN, OUT, STEP, GAIN, FIDELITY, PLUGIN_PORT_COUNT};
 
 /**********************************************************************************************************************************************************/
@@ -59,6 +60,9 @@ public:
             break;
         case 2:
             bufsize = nBuffersSW(n_samples,FIDELITY2);
+            break;
+        case 3:
+            bufsize = nBuffersSW(n_samples,FIDELITY3);
             break;
         default:
             return;

@@ -11,6 +11,7 @@
 #define FIDELITY0 4,2,1,1
 #define FIDELITY1 8,4,2,1
 #define FIDELITY2 12,6,3,2
+#define FIDELITY3 16,8,4,2
 #define FIDELITYPD 8,4,2,1
 enum {IN, OUT_1, OUT_2, TONE, SCALE, INTERVAL, MODE, LOWNOTE, GAIN_1, GAIN_2, FIDELITY, PLUGIN_PORT_COUNT};
 
@@ -68,6 +69,9 @@ public:
             break;
         case 2:
             bufsize = nBuffersSW(n_samples,FIDELITY2);
+            break;
+        case 3:
+            bufsize = nBuffersSW(n_samples,FIDELITY3);
             break;
         default:
             return;
