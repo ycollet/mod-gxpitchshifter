@@ -15,4 +15,4 @@ RUN mkdir -p /usr/local/include/lv2/lv2plug.in/ns/lv2core && \
 
 WORKDIR /app
 
-CMD ["make", "-j$(grep -c ^processor /proc/cpuinfo)"]
+CMD ["make"]

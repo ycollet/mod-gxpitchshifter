@@ -1,7 +1,6 @@
 services:
   compiler:
     build: .
-    image: builder-app:latest
     container_name: compiler_container
     userns_mode: "keep-id"
     volumes:
