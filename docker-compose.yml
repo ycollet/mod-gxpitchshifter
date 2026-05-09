@@ -1,0 +1,7 @@
+services:
+  compiler:
+    build: .
+    container_name: compiler_container
+    userns_mode: "keep-id"
+    volumes:
+      - .:/app:Z

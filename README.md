@@ -11,6 +11,15 @@ following values of Frames/Period: 64, 128, 256, 512
 
 You need a PC with at least 2Gb of ram to compile the source code.
 
+Build with docker (EXPERIMENTAL):
+```bash
+docker compose up --build
+```
+
+```bash
+sudo make install
+```
+
 Dependencies:
 
 	- Armadillo
